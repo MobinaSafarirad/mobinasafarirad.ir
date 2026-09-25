@@ -4,6 +4,8 @@ import { getSiteUrl } from "@/lib/site";
 import { projects } from "@/lib/projects";
 import { getArticles } from "@/lib/writing";
 
+export const dynamic = "force-static";
+
 const staticPaths = ["", "/about", "/projects", "/writing", "/contact"];
 
 export default function sitemap(): MetadataRoute.Sitemap {
