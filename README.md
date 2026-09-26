@@ -21,7 +21,7 @@ No chatbot. No backend. Ready for Vercel.
 - Locale-aware metadata, sitemap, robots
 - Theme preference persisted in `localStorage`, with a first-visit system preference
 - Contact and GitHub / LinkedIn links only render when set in environment variables
-- CareerPilot case notes based on the actual local Python project (not invented metrics)
+- CareerPilot case notes based on the actual local Python project made (not invented metrics)
 
 ## Project structure
 
